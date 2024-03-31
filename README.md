@@ -13,6 +13,7 @@ Information within the dataset includes:
 - Loan Status
 ## Results
 <img width="518" alt="Screenshot 2024-03-31 at 3 28 14 PM" src="https://github.com/h-zena/credit-risk-classification/assets/148402453/5d187ce7-11b6-45cc-8379-5b3c18d9cd69">
+
 Macro avg 0.95
 Weighted avg 0.99
 ## Summary
